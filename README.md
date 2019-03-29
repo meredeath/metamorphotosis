@@ -1,2 +1,2 @@
 # metamorphotosis
-Writing code to use transformation matrices and parse input.
+Writing code to implement Bezier and Hermite curves.
